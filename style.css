@@ -26,6 +26,7 @@ html,body{
     background-color: #FFFFFF;
     border-radius: 50%;
     position: absolute;
+    box-shadow: 0 0 20px #FFFFFF, 0 0 50px #FFFFFF, 0 0 10px #FFFFFF;
     mix-blend-mode: difference;
     transition: all  linear 0.1s;
 }
